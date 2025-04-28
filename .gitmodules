@@ -1,0 +1,3 @@
+[submodule "video_share_mediasoup_client"]
+	path = video_share_mediasoup_client
+	url = https://github.com/Pkson13/video_share_mediasoup_client.git
